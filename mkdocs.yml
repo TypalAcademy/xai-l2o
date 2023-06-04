@@ -39,8 +39,8 @@ theme:
     - content.code.copy  
 
 # Github Repo
-repo_name: howardheaton/xai-via-l2o
-repo_url: https://github.com/howardheaton/xai
+repo_name: typalacademy/xai-via-l2o
+repo_url: https://github.com/typalacademy/xai-l2o
 
 
 extra:
@@ -67,8 +67,6 @@ extra:
   analytics:
     provider: google
     property: G-CM1PCHT3TL
-
-        
 
 
 markdown_extensions:
