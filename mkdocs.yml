@@ -39,7 +39,7 @@ theme:
     - content.code.copy  
 
 # Github Repo
-repo_name: typalacademy/xai-via-l2o
+repo_name: typalacademy/xai-l2o
 repo_url: https://github.com/typalacademy/xai-l2o
 
 
