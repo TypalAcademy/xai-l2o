@@ -16,4 +16,4 @@ _Explainable AI via Learning to Optimize_ (**[arXiv Link](https://arxiv.org/abs/
       year={2022}
     }
 
-See [documentation site](https://howardheaton.github.io/xai/) for more details.
+See [documentation site](https://xai-l2o.research.typal.academy) for more details.
