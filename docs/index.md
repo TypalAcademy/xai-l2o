@@ -2,7 +2,7 @@
 # XAI via L2O
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Docs](https://github.com/howardheaton/xai/actions/workflows/ci.yml/badge.svg)
+![Docs](https://github.com/TypalAcademy/xai-l2o/actions/workflows/ci.yml/badge.svg)
 
 :material-draw-pen: Howard Heaton and Samy Wu Fung
 
