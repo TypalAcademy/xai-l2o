@@ -14,8 +14,10 @@
     - [x] Identify an optimization algorithm for the model: $\mathsf{x^{k+1} = T_\Theta(x^k;\ d)}$
     - [x] Train using JFB
 
+<center>
 [Preprint :fontawesome-solid-file-lines:](assets/xia-via-l2o-preprint.pdf){ .md-button .md-button--primary }
 [Slides :fontawesome-solid-file-image:](assets/xai-via-l2o-slides.pdf){ .md-button .md-button--primary }
+</center>
 
 !!! abstract "Abstract"
 
