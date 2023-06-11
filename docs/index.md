@@ -15,7 +15,7 @@
     - [x] Train using JFB
 
 <center>
-[Preprint :fontawesome-solid-file-lines:](assets/xia-l2o-preprint.pdf){ .md-button .md-button--primary }
+[Preprint :fontawesome-solid-file-lines:](assets/xai-l2o-preprint.pdf){ .md-button .md-button--primary }
 [Slides :fontawesome-solid-file-image:](assets/xai-l2o-slides.pdf){ .md-button .md-button--primary }
 </center>
 
