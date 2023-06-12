@@ -49,6 +49,10 @@ class ImpDictModel(ImplicitL2OModel):
             $\mathsf{p \leftarrow shrink(\hat{p} + {\lambda} (\hat{v}_1
             + a (K\hat{x} - \hat{p})))}$
 
+            $\mathsf{\hat{v}_1 \leftarrow v_1$
+            
+            $\mathsf{\hat{v}_2 \leftarrow v_2$
+            
             $\mathsf{v_1 \leftarrow \hat{v}_1 + \alpha (K\hat{x} - p)}$
 
             $\mathsf{v_2 \leftarrow \hat{v}_2 + \alpha (Ax - d)}$
