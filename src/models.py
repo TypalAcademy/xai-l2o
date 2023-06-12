@@ -48,10 +48,6 @@ class ImpDictModel(ImplicitL2OModel):
 
             $\mathsf{p \leftarrow shrink(\hat{p} + {\lambda} (\hat{v}_1
             + a (K\hat{x} - \hat{p})))}$
-
-            $\mathsf{\hat{v}_1 \leftarrow v_1}$
-            
-            $\mathsf{\hat{v}_2 \leftarrow v_2}$
             
             $\mathsf{v_1 \leftarrow \hat{v}_1 + \alpha (K\hat{x} - p)}$
 
@@ -137,9 +133,10 @@ class ImpDictModel(ImplicitL2OModel):
                 normalize_K=False, return_certs=False) -> inference:
         """ Compute inference using L-ADMM.
 
-            The aim is to find $\mathsf{v^\star = T(v^\star; d)}$ where
-            $\mathsf{v^\star}$ is the dual variable for minimization problem, 
-            and $\mathsf{T}$ is the update operation for L-ADMM.
+            The aim is to find $\mathsf{v^\star}$ satisfying $\mathsf{v^\star = T(v^\star; d)}$ 
+            where $\mathsf{v^\star}$ is the dual variable for minimization problem, 
+            and $\mathsf{T}$ is the update operation for L-ADMM. This operation is applied
+            repeatedly until an approximate fixed point of $\mathsf{T(\cdot; d)}$ is found.
             Associated with optimal dual, we obtain the inference x*.
 
             Note:
