@@ -9,6 +9,10 @@
 !!! note "Summary"
     We fuse optimization-based deep learning models to give explainability with output guarantees and certificates of trustworthiness.
 
+<center>
+[Contact Us](https://form.jotform.com/TypalAcademy/contact-form){ .md-button .md-button--primary }
+</center>
+
 !!! success "Key Steps"
     - [x] Create an optimization model with data-driven and analytic terms: $\mathsf{\mathcal{N}_\Theta(d) = \underset{x}{\text{argmin}}\  f_\Theta(x;\ d)}$
     - [x] Identify an optimization algorithm for the model: $\mathsf{x^{k+1} = T_\Theta(x^k;\ d)}$
