@@ -14,7 +14,7 @@
 </center>
 
 !!! success "Key Steps"
-    - [x] Create an optimization model with data-driven and analytic terms: $\mathsf{\mathcal{N}_\Theta(d) = \underset{x}{\text{argmin}}\  f_\Theta(x;\ d)}$
+    - [x] Create an optimization model with data-driven and analytic terms: $\mathsf{{N}_\Theta(d) = \underset{x}{\text{argmin}}\  f_\Theta(x;\ d)}$
     - [x] Identify an optimization algorithm for the model: $\mathsf{x^{k+1} = T_\Theta(x^k;\ d)}$
     - [x] Train using JFB
 
@@ -30,10 +30,10 @@
 
 !!! quote "Citation"
     ```
-    @article{heaton2022explainable,
+    @article{heaton2023explainable,
              title={{Explainable AI via Learning to Optimize}},
              author={Heaton, Howard and Wu Fung, Samy},
-             journal={arXiv preprint arXiv:2204.14174},
-             year={2022}
+             journal={Scientific Reports},
+             year={2023}
     }
     ```
