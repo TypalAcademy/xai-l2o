@@ -21,6 +21,7 @@
 <center>
 [Preprint :fontawesome-solid-file-lines:](assets/xai-l2o-preprint.pdf){ .md-button .md-button--primary }
 [Slides :fontawesome-solid-file-image:](assets/xai-l2o-slides.pdf){ .md-button .md-button--primary }
+[Reprint :fontawesome-solid-file-lines:](https://rdcu.be/de3wF){ .md-button .md-button--primary }
 </center>
 
 !!! abstract "Abstract"
