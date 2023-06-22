@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Docs](https://github.com/TypalAcademy/xai-l2o/actions/workflows/ci.yml/badge.svg)
 
-:material-draw-pen: Howard Heaton and Samy Wu Fung
+:material-draw-pen: [Howard Heaton](https://howardheaton.tech) and [Samy Wu Fung](https://swufung.github.io)
 
 !!! note "Summary"
     We fuse optimization-based deep learning models to give explainability with output guarantees and certificates of trustworthiness.
