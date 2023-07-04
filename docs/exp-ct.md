@@ -55,6 +55,11 @@ def bubble_sort(items):
       show_source: true        
 
 
-## Downloading Dataset
+## Downloading CT Dataset
 
-The dataset can be downloaded [here](https://drive.google.com/drive/folders/1Z0A3c-D4dnrhlXM8cpgC1b7Ltyu0wpgQ)
+The datasets are stored in a publicly accesible Google Drive folder.
+
+<center>
+[Download CT Data](https://drive.google.com/drive/folders/1Z0A3c-D4dnrhlXM8cpgC1b7Ltyu0wpgQ){ .md-button .md-button--primary }
+</center>
+
