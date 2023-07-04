@@ -5,24 +5,18 @@ hide:
 
 # Implicit Deep Learning for CT
 
-This is where we overview the model for the CT experiments
+Herein we overview the model and setup for the CT image reconstruction experiments.
 
-<!-- !!! tip "Full Tutorial"
-    See the tutorial page for a Jupyter notebook using this model. :fontawesome-regular-face-laugh-wink: -->
+## CT Data
 
-<!-- ## Sample Code Usage
+The datasets used in this set of experiments are stored in a publicly accesible Google Drive folder.
 
-Insert sample code
+<center>
+[Download CT Data](https://drive.google.com/drive/folders/1Z0A3c-D4dnrhlXM8cpgC1b7Ltyu0wpgQ){ .md-button .md-button--primary }
+</center>
 
-``` py title="bubble_sort.py" linenums="1" hl_lines="2 3"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-``` -->
 
-## Model Overview
+## CT Model Overview
 ::: src.models.CT_L2O_Model
     options:
       show_root_heading: false
@@ -53,13 +47,3 @@ def bubble_sort(items):
     options:
       show_root_heading: false
       show_source: true        
-
-
-## Downloading CT Dataset
-
-The datasets are stored in a publicly accesible Google Drive folder.
-
-<center>
-[Download CT Data](https://drive.google.com/drive/folders/1Z0A3c-D4dnrhlXM8cpgC1b7Ltyu0wpgQ){ .md-button .md-button--primary }
-</center>
-
