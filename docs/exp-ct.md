@@ -57,12 +57,4 @@ def bubble_sort(items):
 
 ## Downloading Dataset
 
-COMPLETE
-
-## Requirements / ODL Stuff
-
-COMPLETE
-
-## Source Code
-
-Insert links to autogenerate docs from hyperstrings
+The dataset can be downloaded (here)[https://drive.google.com/drive/folders/1Z0A3c-D4dnrhlXM8cpgC1b7Ltyu0wpgQ]
