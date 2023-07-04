@@ -7,7 +7,7 @@ Indecipherable black boxes are common in machine learning (ML), but applications
 
 ## Publication
 
-_Explainable AI via Learning to Optimize_ (**[Scientific Report Link](https://rdcu.be/de3wF)** and **[arXiv Link](https://arxiv.org/abs/2204.14174)**)
+_Explainable AI via Learning to Optimize_ (**[Scientific Reports link](https://rdcu.be/de3wF)** and **[arXiv link](https://arxiv.org/abs/2204.14174)**)
 
     @article{heaton2023explainable,
       title={{Explainable AI via Learning to Optimize}},
