@@ -48,12 +48,14 @@ extra:
   social:
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/TypalAcademy  
+    - icon: fontawesome/brands/patreon
+      link: https://patreon.com/TypalAcademy         
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/TypalAcademy
     - icon: fontawesome/brands/vimeo
       link: https://vimeo.com/TypalAcademy    
     - icon: fontawesome/brands/youtube
-      link: https://youtube.com/@TypalAcademy    
+      link: https://youtube.com/@TypalAcademy         
   consent:
     title: Cookie Consent
     description: >- 
@@ -96,9 +98,9 @@ extra_javascript:
 nav:
     - 'XAI L2O': 'index.md'
     - 'Experiments':
+        - 'Implicit Dictionary Learning': 'exp-dictionary.md'
         - 'CT Image Reconstruction': 'exp-ct.md'
         - 'Cryptosset Trading': 'exp-crypto.ipynb'
-        - 'Implicit Dictionary Learning': 'exp-dictionary.md'
     - 'Tutorial': 'tutorial.ipynb'
 
 copyright: |
