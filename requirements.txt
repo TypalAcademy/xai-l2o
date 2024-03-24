@@ -1,3 +1,4 @@
 mkdocs-material==9.5.15
 mkdocstrings>=0.24.1
+mkdocstrings-python>=1.9.0
 mkdocs-jupyter>=0.24.3
