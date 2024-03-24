@@ -10,10 +10,6 @@ plugins:
   - mkdocs-jupyter:
       include_source: True
       include: ["*.ipynb"]
-  - social:
-      cards_color:
-        fill: "#7086DF" 
-        text: "#FFFFFF"
   
 theme:
   name: material
