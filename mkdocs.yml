@@ -86,9 +86,7 @@ markdown_extensions:
   - attr_list
   - pymdownx.tasklist:
       custom_checkbox: true  
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+
 
 extra_javascript:
   - javascripts/mathjax.js
