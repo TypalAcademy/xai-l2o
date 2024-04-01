@@ -52,20 +52,6 @@ extra:
       link: https://vimeo.com/TypalAcademy    
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/@TypalAcademy         
-  consent:
-    title: Cookie Consent
-    description: >- 
-      We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our documentation and whether users
-      find what they are searching for. Your consent helps make this site better.
-    cookies:
-      analytics:
-        name: Google Analytics
-        checked: true
-  analytics:
-    provider: google
-    property: G-CM1PCHT3TL
-
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -101,6 +87,4 @@ nav:
     - 'Tutorial': 'tutorial.ipynb'
 
 copyright: |
-  &copy; 2023 <a href="https://research.typal.academy"  target="_blank" rel="noopener">Typal Academy LLC</a>
-  <br>
-  <a href="#__consent">Cookie Settings</a>
+  &copy; 2023 <a href="https://research.typal.academy"  target="_blank" rel="noopener">Typal Academy</a>
